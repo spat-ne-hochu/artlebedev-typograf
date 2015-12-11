@@ -2,6 +2,10 @@
   "name": "node-artlebedev-typograf",
   "version": "1.0.0",
   "description": "remote html typograf by form http://artlebedev.ru/tools/typograf",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/spat-ne-hochu/artlebedev-typograf.git"
+  },
   "main": "artlebedev-typograf.js",
   "dependencies": {
     "cheerio": "^0.19.0",
