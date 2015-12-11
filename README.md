@@ -2,7 +2,7 @@
 
 ## info
     
-version 1.0
+version 1.0.1
 remote typograf via <http://www.artlebedev.ru/tools/typograf>
 
 ## usage
