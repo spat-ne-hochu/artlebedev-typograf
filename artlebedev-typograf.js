@@ -5,7 +5,7 @@ var SERVICE_URL     = 'http://www.artlebedev.ru/tools/typograf/',
 var request = require('request'),
     cheerio = require('cheerio');
 
-module.exports.encode = function() {
+module.exports.encode = function(text, callback) {
     request.post({
         url  : SERVICE_URL,
         headers : {
