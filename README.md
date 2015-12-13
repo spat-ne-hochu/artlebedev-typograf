@@ -1,6 +1,7 @@
 # artlebedev-typograf
 
 [![Build Status](https://travis-ci.org/spat-ne-hochu/artlebedev-typograf.svg?branch=master)](https://travis-ci.org/spat-ne-hochu/artlebedev-typograf)
+[![Coverage Status](https://coveralls.io/repos/spat-ne-hochu/artlebedev-typograf/badge.svg?branch=master&service=github)](https://coveralls.io/github/spat-ne-hochu/artlebedev-typograf?branch=master)
 
 ## info
     
