@@ -7,10 +7,10 @@
 [![DL](https://img.shields.io/npm/dm/node-artlebedev-typograf.svg)](https://www.npmjs.com/package/node-artlebedev-typograf)
 [![DT](https://img.shields.io/npm/dt/node-artlebedev-typograf.svg)](https://www.npmjs.com/package/node-artlebedev-typograf)
 
-## current stable 1.0.5
+## current stable 1.1.0
 
 ## info
-remote typograf via <http://www.artlebedev.ru/tools/typograf>
+remote typograf via <http://typograf.artlebedev.ru/webservices/typograf.asmx>
 
 ## usage
 
@@ -20,7 +20,7 @@ remote typograf via <http://www.artlebedev.ru/tools/typograf>
 var typograf = require('artlebedev-typograf');
 
 typograf.encode('my name is "victor"', function(err, result) {
-    console.log(result)
+    console.log(result);
 }
 ```
 
@@ -30,16 +30,16 @@ typograf.encode('my name is "victor"', function(err, result) {
 my&nbsp;name is&nbsp;&laquo;victor&raquo;
 ```
 
-### changelog
-##### 1.0.0
-initial build
-##### 1.0.1
-update readme.md
-##### 1.0.2
-fix error and initial travis integration
-##### 1.0.3
-travis full integration
-##### 1.0.4
-try code coverage
-##### 1.0.5
-full code coverage
+# changelog
+### 1.0
+1.0.0: initial build
+1.0.1: update readme.md
+1.0.2: fix error and initial travis integration
+1.0.3: travis full integration
+1.0.4: try code coverage
+1.0.5: full code coverage
+
+### 1.1
+using official XML transport 
+
+1.1.0: initial XML transport
