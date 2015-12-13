@@ -1,6 +1,6 @@
 {
   "name": "node-artlebedev-typograf",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "remote html typograf by form http://artlebedev.ru/tools/typograf",
   "repository" : {
     "type" : "git",
