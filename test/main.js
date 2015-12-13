@@ -13,4 +13,15 @@ describe('main test', function() {
             }
         });
     });
+
+    it('remove typograf invalid url', function(done) {
+        var typo = require('../artlebedev-typograf');
+
+        typo._setServiceUrl('http://localhost:8080/dev/null');
+        typo.encode(IN_STRING, function(err) {
+            if (err) {
+                done();
+            }
+        });
+    });
 });
