@@ -4,6 +4,8 @@
 [![Coverage Status](https://coveralls.io/repos/spat-ne-hochu/artlebedev-typograf/badge.svg?branch=master&service=github&r=1024)](https://coveralls.io/github/spat-ne-hochu/artlebedev-typograf?branch=master)
 [![npm version](https://badge.fury.io/js/node-artlebedev-typograf.svg)](https://badge.fury.io/js/node-artlebedev-typograf)
 [![Dependency Status](https://www.versioneye.com/user/projects/566ccc804e049b003b00085c/badge.svg?style=flat)](https://www.versioneye.com/user/projects/566ccc804e049b003b00085c)
+[![DL](https://img.shields.io/npm/dm/node-artlebedev-typograf.svg)](https://www.npmjs.com/package/node-artlebedev-typograf)
+[![DT](https://img.shields.io/npm/dt/node-artlebedev-typograf.svg)](https://www.npmjs.com/package/node-artlebedev-typograf)
 
 ## current stable 1.0.5
 
