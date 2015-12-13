@@ -3,9 +3,9 @@
 [![Build Status](https://travis-ci.org/spat-ne-hochu/artlebedev-typograf.svg?branch=master)](https://travis-ci.org/spat-ne-hochu/artlebedev-typograf)
 [![Coverage Status](https://coveralls.io/repos/spat-ne-hochu/artlebedev-typograf/badge.svg?branch=master&service=github)](https://coveralls.io/github/spat-ne-hochu/artlebedev-typograf?branch=master)
 
+## current stable 1.0.4
+
 ## info
-    
-current stable 1.0.3
 remote typograf via <http://www.artlebedev.ru/tools/typograf>
 
 ## usage
@@ -33,3 +33,7 @@ initial build
 update readme.md
 ##### 1.0.2
 fix error and initial travis integration
+##### 1.0.3
+travis full integration
+##### 1.0.4
+try code coverage
