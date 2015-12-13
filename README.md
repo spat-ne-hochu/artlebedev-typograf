@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/spat-ne-hochu/artlebedev-typograf.svg?branch=master)](https://travis-ci.org/spat-ne-hochu/artlebedev-typograf)
 [![Coverage Status](https://coveralls.io/repos/spat-ne-hochu/artlebedev-typograf/badge.svg?branch=master&service=github)](https://coveralls.io/github/spat-ne-hochu/artlebedev-typograf?branch=master)
+[![npm version](https://badge.fury.io/js/node-artlebedev-typograf.svg)](https://badge.fury.io/js/node-artlebedev-typograf)
+[![Dependency Status](https://www.versioneye.com/user/projects/566ccc804e049b003b00085c/badge.svg?style=flat)](https://www.versioneye.com/user/projects/566ccc804e049b003b00085c)
 
 ## current stable 1.0.5
 
