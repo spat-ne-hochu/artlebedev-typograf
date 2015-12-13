@@ -1,5 +1,7 @@
 # artlebedev-typograf
 
+[![Build Status](https://travis-ci.org/spat-ne-hochu/artlebedev-typograf.svg?branch=master)](https://travis-ci.org/spat-ne-hochu/artlebedev-typograf)
+
 ## info
     
 current stable 1.0.2
