@@ -24,4 +24,11 @@ describe('main test', function() {
             }
         });
     });
+
+    it('invalid xml responce', function(done) {
+        var typo = require('../artlebedev-typograf');
+
+        typo._getResultFromXML('');
+        done();
+    });
 });
