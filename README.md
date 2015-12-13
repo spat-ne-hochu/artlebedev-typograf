@@ -4,7 +4,7 @@
 
 ## info
     
-current stable 1.0.2
+current stable 1.0.3
 remote typograf via <http://www.artlebedev.ru/tools/typograf>
 
 ## usage
