@@ -1,8 +1,15 @@
 sudo: false
 
+cache:
+  directories:
+    - node_modules
+
 language: node_js
 node_js:
   - "4.1"
 
 before_script:
-  - npm install -g mocha
+  - npm i -D
+
+after_script:
+  - "npm install coveralls@2 && cat ./coverage/lcov.info | coveralls"
